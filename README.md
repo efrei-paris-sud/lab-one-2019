@@ -64,6 +64,7 @@ ESP32-NodeMCU-32S pin definition
  
  2- Prepare a README.md inside and describe the codes and which kind of problem you encountered with.
  
+ - You can use [StackEdit.io](https://stackedit.io/app) to have a Markdown editor
  
  # Exercise - Deadline=11/11/2019 23:59:59
  Make a folder(Lab1/Excercise) in your team's repository and put all your exercises on it . 
@@ -71,8 +72,8 @@ ESP32-NodeMCU-32S pin definition
 1- (Folder=Lab1/Excercise/1) Control a LED Brightness with a variable resistance.
 - Without a microcontroller
 - With a microcontroller
- - input: variable resistance
- - output: with PWM signal
+  - input: variable resistance
+  - output: with PWM signal
 What are the differences?
 Which one is more efficient? Explain in README.md.
 - Take a photo and put it in README.md.
