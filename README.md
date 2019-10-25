@@ -10,7 +10,7 @@
 
 [PlatformIO](https://platformio.org/)
 
-[Starter Kit User Manual](https://www.elecrow.com/download/Starter%20Kit%20for%20Arduino(user%20manual).pdf)
+[Starter Kit User Manual](https://www.elecrow.com/download/Starter%20Kit%20for%20Arduino(user%20manual).pdf) --- [Demo Codes](https://www.elecrow.com/download/Arduino_Demo_Code.zip)
 
 [Language Reference](http://wiring.org.co/reference/) 
 
