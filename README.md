@@ -56,3 +56,12 @@ ESP32-NodeMCU-32S pin definition
 ![ESP32-NodeMCU-32s](http://www.shenzhen2u.com/image/catalog/Module/NodeMCU-32S/nodemcu_32s_pin.png)
 ![enter image description here](https://docs.zerynth.com/latest/_images/nodemcu_esp32_pin.jpg)
 
+
+# Report
+ Please make a folder(Lab1) in your team's repository.
+ 
+ 1- upload all codes in this folder
+ 2- Prepare a README.md inside and Describe the codes and which kind of problem you encountered with
+ 
+ 
+ 
