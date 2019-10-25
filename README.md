@@ -3,10 +3,15 @@
 ## Materials:
 ### Arduino UNO
 [Official Website](https://arduino.cc)
+
 [Online IDE](https://create.arduino.cc/)
+
 [Arduino IDE](https://www.arduino.cc/en/Main/Software)
+
 [PlatformIO](https://platformio.org/)
+
 [Starter Kit User Manual](https://www.elecrow.com/download/Starter%20Kit%20for%20Arduino(user%20manual).pdf)
+
 #### Device Summary
 -   Operating Voltage: 5 Volts
 -   Input Voltage: 7 to 20 Volts
@@ -19,10 +24,12 @@
 -   USB connection
 
 Pin definition
-![enter image description here](https://components101.com/sites/default/files/component_pin/Arduino-Uno-Pin-Diagram.png)
+
+![Pin](https://components101.com/sites/default/files/component_pin/Arduino-Uno-Pin-Diagram.png)
 ### ESP32
-[NodeMCU-32S Documentation]([https://nodemcu.readthedocs.io/en/dev-esp32/])
-[NodeMCU-32S Datasheet]([https://wiki.ai-thinker.com/_media/esp32/docs/nodemcu-32s_product_specification.pdf])
+[NodeMCU-32S Documentation](https://nodemcu.readthedocs.io/en/dev-esp32/)
+
+[NodeMCU-32S Datasheet](https://wiki.ai-thinker.com/_media/esp32/docs/nodemcu-32s_product_specification.pdf)
 
 [Installing ESP32 Add-on in Arduino IDE](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)
 #### Device Summary
