@@ -12,6 +12,8 @@
 
 [Starter Kit User Manual](https://www.elecrow.com/download/Starter%20Kit%20for%20Arduino(user%20manual).pdf)
 
+[Language Reference](http://wiring.org.co/reference/) 
+
 #### Device Summary
 -   Operating Voltage: 5 Volts
 -   Input Voltage: 7 to 20 Volts
