@@ -33,6 +33,8 @@ Pin definition
 
 [NodeMCU-32S Datasheet](https://wiki.ai-thinker.com/_media/esp32/docs/nodemcu-32s_product_specification.pdf)
 
+[ESP 32](http://esp32.net/)
+
 [Installing ESP32 Add-on in Arduino IDE](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)
 #### Device Summary
 -   Microcontroller: Tensilica 32-bit Single-/Dual-core CPU Xtensa LX6
