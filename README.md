@@ -58,7 +58,7 @@ ESP32-NodeMCU-32S pin definition
 
 
 # Report - Deadline=30/10/2019 23:59:59
- Please make a folder(Lab1) in your team's repository.
+ Please make a folder(Lab/1/Report) in your team's repository.
  
  1- upload all codes in this folder.
  
@@ -67,9 +67,9 @@ ESP32-NodeMCU-32S pin definition
  - You can use [StackEdit.io](https://stackedit.io/app) to have a Markdown editor
  
  # Exercise - Deadline=11/11/2019 23:59:59
- Make a folder(Lab1/Excercise) in your team's repository and put all your exercises on it . 
+ Make a folder(Lab/1/Excercise) in your team's repository and put all your exercises on it . 
  
-1- (Folder=Lab1/Excercise/1) Control a LED Brightness with a variable resistance.
+1- (Folder=Lab/1/Excercise/1) Control a LED Brightness with a variable resistance.
 - Without a microcontroller
 - With a microcontroller
   - input: variable resistance
@@ -79,7 +79,7 @@ What are the differences?
 Which one is more efficient? Explain in README.md.
 - Take a photo and put it in README.md.
 
-2-(Folder=Lab1/Excercise/2) (Extra-Optional-Bonus) 
+2-(Folder=Lab/1/Excercise/2) (Extra-Optional-Bonus) 
   - You can skip it but it has extra point.
   - Do lesson 15.
   - Do [Using Max7219 For 7 Segment](https://thecustomizewindows.com/2017/11/arduino-max-7219-cng-basic-circuit-led-7-segment-displays/)
@@ -87,7 +87,7 @@ Which one is more efficient? Explain in README.md.
      - Take a photo and put it in README.md.
 
 
-3- (Folder=Lab1/Excercise/3) Do [Using Max7219 For LED Matrix](https://howtomechatronics.com/tutorials/arduino/8x8-led-matrix-max7219-tutorial-scrolling-text-android-control-via-bluetooth/) Until the section `Android App for Controlling 8×8 LED Matrix via Bluetooth`
+3- (Folder=Lab/1/Excercise/3) Do [Using Max7219 For LED Matrix](https://howtomechatronics.com/tutorials/arduino/8x8-led-matrix-max7219-tutorial-scrolling-text-android-control-via-bluetooth/) Until the section `Android App for Controlling 8×8 LED Matrix via Bluetooth`
 - Consider that you have only one led matrix
 - Use PlatformIO for programming Arduino
 - Display Your team's name in the display.
