@@ -62,11 +62,11 @@ ESP32-NodeMCU-32S pin definition
  
  1- upload all codes in this folder.
  
- 2- Prepare a `README.md` inside and describe the codes(especially new functions like writeAnalog() ) and which kind of problem you encountered with.
+ 2- Prepare a `README.md` inside and describe the codes(especially new functions like `writeAnalog()` ) and which kind of problem you encountered with.
  
  3- Put the circut's schematics (Connection diagram) inside `README.md` 
  
- - You can use [StackEdit.io](https://stackedit.io/app) to have a Markdown editor
+ - You can search for online markdown editor or use [StackEdit.io](https://stackedit.io/app) for better preparation of your `README.md` file
  
  # Exercise - Deadline=11/11/2019 23:59:59
  Make a folder(`Lab/1/Excercise`) in your team's repository and put all your exercises on it . 
@@ -78,15 +78,15 @@ ESP32-NodeMCU-32S pin definition
   - output: with PWM signal
   
 What are the differences?
-Which one is more efficient? Explain in README.md.
-- Take a photo and put it in README.md.
+Which one is more efficient? Explain in `README.md`.
+- Take a photo and put it in `README.md`.
 
 2-(Folder=`Lab/1/Excercise/2`) (Extra-Optional-Bonus) 
   - You can skip it but it has extra point.
   - Do lesson 15.
   - Do [Using Max7219 For 7 Segment](https://thecustomizewindows.com/2017/11/arduino-max-7219-cng-basic-circuit-led-7-segment-displays/)
      - Display the Date(day.month)
-     - Take a photo and put it in README.md.
+     - Take a photo and put it in `README.md`.
 
 
 3- (Folder=`Lab/1/Excercise/3`) Do [Using Max7219 For LED Matrix](https://howtomechatronics.com/tutorials/arduino/8x8-led-matrix-max7219-tutorial-scrolling-text-android-control-via-bluetooth/) Until the section *Android App for Controlling 8×8 LED Matrix via Bluetooth*
