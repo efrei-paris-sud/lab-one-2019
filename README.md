@@ -74,6 +74,7 @@ ESP32-NodeMCU-32S pin definition
 - With a microcontroller
   - input: variable resistance
   - output: with PWM signal
+  
 What are the differences?
 Which one is more efficient? Explain in README.md.
 - Take a photo and put it in README.md.
