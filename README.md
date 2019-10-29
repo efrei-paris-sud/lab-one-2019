@@ -62,7 +62,7 @@ ESP32-NodeMCU-32S pin definition
  
  1- upload all codes in this folder.
  
- 2- Prepare a `README.md` inside and describe the codes and which kind of problem you encountered with.
+ 2- Prepare a `README.md` inside and describe the codes(especially new functions like writeAnalog() ) and which kind of problem you encountered with.
  
  3- Put the circut's schematics (Connection diagram) inside `README.md` 
  
