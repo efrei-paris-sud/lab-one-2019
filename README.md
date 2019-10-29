@@ -66,7 +66,7 @@ ESP32-NodeMCU-32S pin definition
  
  3- Put the circut's schematics (Connection diagram) inside `README.md` 
  
- - You can search for an online markdown editor or use [StackEdit.io](https://stackedit.io/app) for prettifying of your `README.md` file.
+ - You can search for an online markdown editor or use [StackEdit.io](https://stackedit.io/app) for prettifying your `README.md` file.
  
  # Exercise - Deadline=11/11/2019 23:59:59
  Make a folder(`Lab/1/Excercise`) in your team's repository and put all your exercises on it . 
