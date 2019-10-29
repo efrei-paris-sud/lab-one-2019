@@ -87,7 +87,7 @@ Which one is more efficient? Explain in README.md.
      - Take a photo and put it in README.md.
 
 
-3- (Folder=Lab1/Excercise/3) Do [Using Max7219 For LED Matrix](https://howtomechatronics.com/tutorials/arduino/8x8-led-matrix-max7219-tutorial-scrolling-text-android-control-via-bluetooth/)
+3- (Folder=Lab1/Excercise/3) Do [Using Max7219 For LED Matrix](https://howtomechatronics.com/tutorials/arduino/8x8-led-matrix-max7219-tutorial-scrolling-text-android-control-via-bluetooth/) Until the section `Android App for Controlling 8×8 LED Matrix via Bluetooth`
 - Consider that you have only one led matrix
 - Use PlatformIO for programming Arduino
 - Display Your team's name in the display.
