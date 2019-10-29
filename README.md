@@ -64,6 +64,8 @@ ESP32-NodeMCU-32S pin definition
  
  2- Prepare a `README.md` inside and describe the codes and which kind of problem you encountered with.
  
+ 3- Put the circut's schematics (Connection diagram) inside `README.md` 
+ 
  - You can use [StackEdit.io](https://stackedit.io/app) to have a Markdown editor
  
  # Exercise - Deadline=11/11/2019 23:59:59
